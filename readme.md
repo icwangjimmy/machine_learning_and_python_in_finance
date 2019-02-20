@@ -7,3 +7,6 @@
 
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
+
+# Where to find Index Rule
+- [如何查询一个指数的编制规则](https://xueqiu.com/5615880061/115544316)
