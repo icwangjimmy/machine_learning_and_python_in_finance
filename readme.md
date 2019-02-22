@@ -6,6 +6,7 @@
 - [portfolio_optimization](https://nbviewer.jupyter.org/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb)
 - [Factor-based Expected Returns, Risks and Correlations](https://web.stanford.edu/~wfsharpe/mia/fac/mia_fac3.htm#Factor-based%20Asset%20Expected%20Returns)
 - [William F. Sharpe](https://web.stanford.edu/~wfsharpe/)
+- [PyPortfolioOpt Package](https://github.com/robertmartin8/PyPortfolioOpt)
 
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
