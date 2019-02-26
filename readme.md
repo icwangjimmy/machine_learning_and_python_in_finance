@@ -8,6 +8,10 @@
 - [William F. Sharpe](https://web.stanford.edu/~wfsharpe/)
 - [PyPortfolioOpt Package](https://github.com/robertmartin8/PyPortfolioOpt)
 
+# Quantitative Finance Program
+- [worldquant mscfe](https://wqu.org/programs/mscfe)
+- [epat](https://www.quantinsti.com/epat#epat-faculty-block)
+
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
 
