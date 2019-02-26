@@ -11,6 +11,7 @@
 # Quantitative Finance Program
 - [worldquant mscfe](https://wqu.org/programs/mscfe)
 - [epat](https://www.quantinsti.com/epat#epat-faculty-block)
+- [python for finance-yves](https://training.tpq.io/)
 
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
