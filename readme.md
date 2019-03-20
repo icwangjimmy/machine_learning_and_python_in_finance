@@ -13,6 +13,9 @@
 - [epat](https://www.quantinsti.com/epat#epat-faculty-block)
 - [python for finance-yves](https://training.tpq.io/)
 
+# Quantitative Finance Course
+- [《Python与量化投资：从基础到实战》](https://study.163.com/course/introduction/1005475015.htm)
+
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
 
