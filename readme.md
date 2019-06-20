@@ -31,3 +31,6 @@
 - [coinbase](https://www.coinbase.com)
 - [coindesk](https://www.coindesk.com)
 - [bitwise](https://www.bitwiseinvestments.com)
+
+# Where to Find Data
+- [gurufocus](https://www.gurufocus.com/)
