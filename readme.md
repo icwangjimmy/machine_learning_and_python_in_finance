@@ -15,6 +15,7 @@
 
 # Quantitative Finance Course
 - [《Python与量化投资：从基础到实战》](https://study.163.com/course/introduction/1005475015.htm)
+- [list of online quant investment courses](https://quantor.co/online-courses-to-learn-algorithmic-trading-and-quantitative-finance/)
 
 # Where to Find Quant Idea
 - [Quantitative Finance (since Dec 2008)](https://arxiv.org/archive/q-fin)
@@ -22,3 +23,11 @@
 # Where to find Index Rule
 - [如何查询一个指数的编制规则](https://xueqiu.com/5615880061/115544316)
 - [中证指数有限公司](http://www.csindex.com.cn/)
+
+# Cryptocurreny Investment
+- [melonport](https://melonport.com/)
+- [iconomi](https://my.iconomi.com/)
+- [coinmarketcap](https://coinmarketcap.com)
+- [coinbase](https://www.coinbase.com)
+- [coindesk](https://www.coindesk.com)
+- [bitwise](https://www.bitwiseinvestments.com)
