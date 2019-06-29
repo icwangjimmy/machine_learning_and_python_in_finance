@@ -12,6 +12,7 @@
 - [worldquant mscfe](https://wqu.org/programs/mscfe)
 - [epat](https://www.quantinsti.com/epat#epat-faculty-block)
 - [python for finance-yves](https://training.tpq.io/)
+- [量化投资就业班](https://bbs.pinggu.org/thread-6033665-1-1.html)
 
 # Quantitative Finance Course
 - [《Python与量化投资：从基础到实战》](https://study.163.com/course/introduction/1005475015.htm)
