@@ -2,7 +2,6 @@
 - [a-professional-quant-equity-workflow](https://blog.quantopian.com/a-professional-quant-equity-workflow/)
 - [quantstart](https://www.quantstart.com/)
 - [quantitative-hedge-fund-training](http://www.streetofwalls.com/finance-training-courses/#quantitative-hedge-fund-training)
-- [tushare finance data source](http://tushare.org/)
 - [portfolio_optimization](https://nbviewer.jupyter.org/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb)
 - [Factor-based Expected Returns, Risks and Correlations](https://web.stanford.edu/~wfsharpe/mia/fac/mia_fac3.htm#Factor-based%20Asset%20Expected%20Returns)
 - [William F. Sharpe](https://web.stanford.edu/~wfsharpe/)
@@ -36,3 +35,4 @@
 
 # Where to Find Data
 - [gurufocus](https://www.gurufocus.com/)
+- [tushare finance data source](http://tushare.org/)
