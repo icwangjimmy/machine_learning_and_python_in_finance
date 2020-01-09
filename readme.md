@@ -6,6 +6,7 @@
 - [Factor-based Expected Returns, Risks and Correlations](https://web.stanford.edu/~wfsharpe/mia/fac/mia_fac3.htm#Factor-based%20Asset%20Expected%20Returns)
 - [William F. Sharpe](https://web.stanford.edu/~wfsharpe/)
 - [PyPortfolioOpt Package](https://github.com/robertmartin8/PyPortfolioOpt)
+- [Advanced Algorithmic Trading Source Code](https://github.com/zslucky/algorithmic_trading_book/tree/master/aat_source)
 
 # Quantitative Finance Program
 - [worldquant mscfe](https://wqu.org/programs/mscfe)
